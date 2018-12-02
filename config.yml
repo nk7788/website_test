@@ -1,5 +1,5 @@
 backend:
-	name: git-gateway
+	name: github
 	repo: nk7788/website_test
 
 
